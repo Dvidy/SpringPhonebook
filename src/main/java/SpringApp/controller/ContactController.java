@@ -11,7 +11,7 @@ import java.util.List;
 
 @AllArgsConstructor
 @RestController
-@RequestMapping("/api/contacts")
+@RequestMapping("/contacts")
 public class ContactController {
 
     private ContactService contactService;
