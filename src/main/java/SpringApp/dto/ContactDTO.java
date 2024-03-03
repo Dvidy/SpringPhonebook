@@ -7,7 +7,7 @@ import lombok.Setter;
 
 /**
  * Data Transfer Object pro kontakt
- * Obsahuje informace o kontaktu jako ID, jméno, příjmení a telefonní číslo
+ * Obsahuje informace o kontaktu: ID, jméno, příjmení a telefonní číslo
  */
 @Getter
 @Setter
