@@ -1,1 +1,1 @@
-Jednoduchá REST API vytvořená dle zadání. REST API je psána v Javě a otestovaná pomocí aplikace Postman. 
+Jednoduchá REST API, která je psána v Javě + Spring a otestovaná pomocí aplikace Postman. 
